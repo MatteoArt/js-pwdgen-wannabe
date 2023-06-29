@@ -3,3 +3,18 @@
     margin: 0;
     padding: 0;
 }
+.container {
+    margin: auto;
+    text-align: center;
+}
+h2 {
+    margin-bottom: 20px;
+}
+#pwd {
+    margin-top: 8px;
+    border: 1px solid black;
+    color: red;
+    padding: 5px;
+    width: 150px;
+    margin: auto;
+}
